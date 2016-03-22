@@ -1,2 +1,6 @@
 ﻿qweqweqweqweeqwqqq阿拉拉拉啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦阿拉
+<<<<<<< HEAD
 asdasdqqq
+=======
+asdasdqqqqqqqwwwww啊啊啊啊啊
+>>>>>>> a657892b388fbc9fabef06f128c2cd5689c20ff5
